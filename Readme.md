@@ -71,7 +71,7 @@ src/
 
 ---
 ## 📊 프론트엔드 산출물
-- [화면 및 기능 설계서(src/main/resources/docs/요구사항명세서.xlsx)
+- [화면 및 기능 설계서](src/main/resources/docs/요구사항명세서.xlsx)
 - [테스트 계획 및 결과 보고서](src/main/resources/docs/화면및기능설계서(발표).pptx)
 
 ## 📊 백엔드 산출물
